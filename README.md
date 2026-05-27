@@ -127,4 +127,4 @@ ospf-multiarea-lab/
 ## Author
 
 **Muhammad Zaki Zein** — [@zkizen](https://github.com/zkizen)  
-SMK TKJ Graduate · Incoming Politeknik Negeri Jakarta
+SMK TKJ Graduate ·
